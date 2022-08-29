@@ -1,0 +1,45 @@
+.banner 
+{
+    background: url(./img/mainbg.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: #fff;
+    padding: 15px;
+}
+.banner-text
+{
+    text-align: center;
+    color: #fff;
+    padding-top: 160px;
+}
+.banner-text span 
+{
+    color: orange;
+}
+.banner-text h1 
+{
+    font-size: 66px;
+    font-weight: bold;
+}
+.about
+{
+    padding: 60px 0;
+    text-align: center;
+    background: #2c0634;
+    color: #fff;
+}
+.signatures
+{
+    padding: 60px 0;
+    text-align: center;
+}
+.bg2
+{
+    padding: 60px 0;
+    text-align: center;
+    background: #2c0634;
+    color: #fff;
+}
